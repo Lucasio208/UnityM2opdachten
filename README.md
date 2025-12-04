@@ -38,3 +38,9 @@ public class array : MonoBehaviour
 
 collision en forces opdracht 2
 ![Bezig met opnemen 2025-12-04 140017](https://github.com/user-attachments/assets/6821b48b-b36b-41ae-96f9-6451d34b4b7c)
+
+
+M2 GDV les 2.2 (CODE) Peggle Game, Mikken, Schieten en Line Rendering
+![video2gifs_qcudqe](https://github.com/user-attachments/assets/b517f480-538c-48a6-8074-99ebaf58ebb2)
+
+
