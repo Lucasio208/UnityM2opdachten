@@ -1,6 +1,6 @@
 # UnityM2opdachten
 
-array opracht 
+array opracht 1
 ![ezgif-4398ec5028dc0172](https://github.com/user-attachments/assets/c4e8dd83-3035-4bbc-a1f9-51dcf9c5ff86)
 
 using UnityEngine;
@@ -34,3 +34,7 @@ public class array : MonoBehaviour
         }
     }
 }
+
+
+collision en forces opdracht 2
+![Bezig met opnemen 2025-12-04 140017](https://github.com/user-attachments/assets/6821b48b-b36b-41ae-96f9-6451d34b4b7c)
