@@ -44,3 +44,7 @@ M2 GDV les 2.2 (CODE) Peggle Game, Mikken, Schieten en Line Rendering
 ![video2gifs_qcudqe](https://github.com/user-attachments/assets/b517f480-538c-48a6-8074-99ebaf58ebb2)
 
 
+M2 GDV les 3.2 bumpers en combo systeem 
+
+![Bezig met opnemen 2025-12-11 141647](https://github.com/user-attachments/assets/2d4a7756-e99e-4ac8-ac85-7bc961916c17)
+
