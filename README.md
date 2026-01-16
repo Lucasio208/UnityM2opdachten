@@ -55,9 +55,10 @@ M2 GDV les 4.1 Leveldesign
 M2 GDV les 4.2 Codes versturen naar UI
 ![Bezig met opnemen 2026-01-16 172310 (1)](https://github.com/user-attachments/assets/70428d29-4534-4106-b586-b7a7c601c1db)
 
-M2 GDV les 5.2 particle system
+M2 GDV les 5.2 particle system + screenshake 
 
 ![Bezig met opnemen 2026-01-16 172310 (1)](https://github.com/user-attachments/assets/98c5825a-282a-43f1-94c5-46e38f55af7e)
+
 
 
 
